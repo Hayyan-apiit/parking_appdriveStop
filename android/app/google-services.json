@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604893910540",
+    "project_id": "drivestop-2e226",
+    "storage_bucket": "drivestop-2e226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604893910540:android:1669389481e64aa6f90029",
+        "android_client_info": {
+          "package_name": "com.example.drivestop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8j2MkIBwY6bqUhEboXhrjfmaucEbcX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
